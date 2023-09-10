@@ -3,7 +3,9 @@
 # ALX - Advanced way to make your Betty style clean.
 
 if [ "$#" -eq 0 ]; then
-    echo -e "Please provide C or Python source file(s) to clean.."
+    echo -e "Usage: alxbetty <filename>"
+	echo -e "OR"
+	echo -e "Usage: alxbetty *.c"
     exit 1
 fi
 
