@@ -3,7 +3,7 @@
 # Compiler GCC Alais as agcc filename or multifile.
 
 if [ "$#" = "0" ]; then
-  echo "Usage: agcc [source_file1] [source_file2] [source_file3]..."
+  echo "Usage: agcc [source_file1] [source_file2]"
   echo "Compile C code using GCC with specified Files."
   exit 1
 fi
