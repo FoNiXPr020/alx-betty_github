@@ -54,7 +54,7 @@ agcc [source_file1] [source_file2] [source_file3]...
 
 ## Installation Video
 
-<a href="https://www.youtube.com/watch?v=Aqt2lb-gUi0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="watch?v=Aqt2lb-gUi0" height="30" width="40" /></a> [FoNiX - Advanced Betty Style](https://www.youtube.com/watch?v=Aqt2lb-gUi0) Moroccan
+<a href="https://www.youtube.com/watch?v=Aqt2lb-gUi0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="watch?v=Aqt2lb-gUi0" height="30" width="40" /></a> [FoNiX - Advanced Betty Style](https://www.youtube.com/watch?v=owxDcp_WXng) Moroccan
 
 ### License
 
