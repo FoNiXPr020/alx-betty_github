@@ -59,4 +59,4 @@ agcc [source_file1] [source_file2] [source_file3]...
 ### License
 
 Copyright © 2017, [Mohamed Barhoun](https://github.com/FoNiXPr020).
-Released under the [MIT License](LICENSE).
+Released under the [ALX License](LICENSE).
