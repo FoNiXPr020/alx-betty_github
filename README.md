@@ -43,7 +43,7 @@ Or use the `*.c` to include all files.c
 ```sh
 alxbetty *.c 
 ```
-3. Alias definition command for Mkbetty File:
+2. Alias definition command for Mkbetty File:
 ```sh
 mkbetty <filename>
 ```
