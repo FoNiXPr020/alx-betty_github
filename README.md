@@ -58,5 +58,5 @@ agcc [source_file1] [source_file2] [source_file3]...
 
 ### License
 
-Copyright © 2017, [Mohamed Barhoun](https://github.com/FoNiXPr020).
+Copyright © 2023, [Mohamed Barhoun](https://github.com/FoNiXPr020).
 Released under the [ALX License](LICENSE).
